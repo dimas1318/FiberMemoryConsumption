@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FiberMemoryConsumption:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FiberMemoryConsumption_jar</output-path>
+    <root id="archive" name="FiberMemoryConsumption.jar">
+      <element id="module-output" name="FiberMemoryConsumption" />
+    </root>
+  </artifact>
+</component>
